@@ -1,4 +1,4 @@
-# test
+# Pomodoro Timer
 
 > A simple vuejs pomodoro clock
 
