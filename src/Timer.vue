@@ -44,7 +44,7 @@
     watch: {
       timeLeft: function (timeVal) {
         if (timeVal <= 0) {
-          const mp3File = '宇多田ヒカル - Automatic.mp3'
+          const mp3File = 'sample.mp3'
           const audio = new Audio(mp3File)
           audio.play()
           if (this.sessionName === "Session") {
