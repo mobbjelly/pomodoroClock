@@ -1,6 +1,6 @@
 # test
 
-> A Vue.js project
+> A simple vuejs pomodoro clock
 
 ## Build Setup
 
